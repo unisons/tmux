@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/catppuccin/tmux/compare/v1.0.3...v1.1.0) (2024-10-19)
+
+
+### Features
+
+* replace `_ctp_status_bg` with unified `_ctp_module_bg_color` in module configuration ([a4d4ad0](https://github.com/catppuccin/tmux/commit/a4d4ad09cc8b5c9338cbd4510450d0ae997a7710))
+
+
+### Bug Fixes
+
+* use ubuntu-24.04 in ci ([#388](https://github.com/catppuccin/tmux/issues/388)) ([3b0e0a6](https://github.com/catppuccin/tmux/commit/3b0e0a6f0741bf09149f23620516decd7b5f5ba5))
+
 ## [1.0.3](https://github.com/catppuccin/tmux/compare/v1.0.2...v1.0.3) (2024-10-16)
 
 
